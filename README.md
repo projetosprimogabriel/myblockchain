@@ -4,7 +4,7 @@ Trabalho Segurança da Informação/Professor Bruno
 Alunos: André, Enryco, Gabriel Primo.
 Professor: Bruno Zolotaref
 email:
-andré.silva1154@etec.sp.gov.br
+andre.silva1154@etec.sp.gov.br
 enryco.ferreira@etec.sp.gov.br
 gabriel.medeiros52@etec.sp.gov.br
 
